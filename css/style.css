@@ -190,4 +190,10 @@ body {
   font-weight: 700;
 }
 
-/* 111 */
+/*                 section how                                 */
+
+.section-how {
+  padding: 9.6px ;
+  background-color: orangered;
+}
+
